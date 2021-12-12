@@ -1,5 +1,0 @@
-<b> Abstract </b> <br/>
-Therapy that uses "Guided Images" along with visualization to restore or increase the positiveness in behaviors and thoughts with stress reduction is referred to as Guided Imagery Therapy. The most critical requirement for this therapy is that the client should be in a relaxed state so that the subconscious mind can be accessed and the relationship between the visual cortex and the nervous system can be utilized optimally. As a result, the physical and the emotional states get positively impacted which increases the possibility of achieving the desired changes.
-In machine learning, GAN or Generative Adversarial Networks can be defined as the process of generating the output by learning the pattern and the regularities of the input data in such a manner that it's not possible to identify the origin of the output. Therefore, GAN can be substantially utilized to generate images that can be used by the therapist for "Guided Imagery Therapy".
-
-Note: The Final Paper is - Application of GAN in Guided Imagery Therapy_V1
